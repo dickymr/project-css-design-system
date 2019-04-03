@@ -1,3 +1,7 @@
+*{
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: ghostwhite;
   margin-top: 55px;
