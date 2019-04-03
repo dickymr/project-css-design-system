@@ -1,0 +1,9 @@
+body {
+  background-color: ghostwhite;
+  margin-top: 55px;
+}
+
+.jumbotron {
+  background-image: url(./images/bg-jumbotron.jpg);
+  min-height: 350px;
+}
