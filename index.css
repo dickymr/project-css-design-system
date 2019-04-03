@@ -34,3 +34,15 @@ hr {
   border: 2px #30349C solid;
   margin: 20px 0px;
 }
+
+.contact button {
+  width: 100%;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+footer .row {
+  height: 100px;
+}
