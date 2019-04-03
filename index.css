@@ -43,6 +43,10 @@ hr {
   margin: 20px 0px;
 }
 
+.contact .form {
+  margin-bottom: 50px;
+}
+
 .contact button {
   width: 100%;
 }
